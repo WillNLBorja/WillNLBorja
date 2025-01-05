@@ -5,7 +5,7 @@
 
 - 🌱 Aprendizaje continuo: **Metodologías en Auditoría Informática, Procesos y Riesgos Operativos**
 
-- Aportaciones: **Sector Financiero y Sector de la Salud**
+- 🤝🏼 Aportaciones: **Sector Financiero y Sector de la Salud**
 
 - 📫 Correo: **williamborja-wyti@hotmail.com**
 
